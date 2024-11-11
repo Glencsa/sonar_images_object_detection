@@ -1,0 +1,18 @@
+train: /home/isvl/sonar_yolo/UATD_Training  # train images (relative to 'path') 128 images
+val: /home/isvl/sonar_yolo/UATD_Test_1 # val images (relative to 'path') 128 images
+# test: /home/cj/chaintwork/yolov8/yolov8_dataset/test # test images (optional)
+
+# Classes
+names:
+  0: cube
+  1: ball
+  2: cylinde
+  3: human body
+  4: plane
+  5: circle cage
+  6: squre cage
+  7: metal bucket
+  8: tyre
+  9: bluerov
+
+
